@@ -1,0 +1,28 @@
+{
+  "title": "Bubi Bikes",
+  "image": "bubi_bikes_ss.png",
+  "summary": "Display the availability of Bubi bikes (public transport, rentable bikes) in Budapest.",
+  "technologies_used": [
+    "es6",
+    "promises",
+    "fetch",
+    "dom",
+    "leaflet"
+  ],
+  "credits": [{ 
+    "name": "Google",
+    "link": "https://developers.google.com/maps/"
+  }, {
+    "name": "BKK",
+    "link": "https://www.bkk.hu/"
+  }, {
+    "name": "Leaflet.js",
+    "link": "https://leafletjs.com/"
+  }, {
+    "name": "OpenStreetMap",
+    "link": "http://www.openstreetmap.org/copyright"
+  }, {
+    "name": "CartoDB",
+    "link": "http://cartodb.com/attributions"
+  }
+}
