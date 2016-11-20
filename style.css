@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#mapcanvas {
+  height: 100%;
+}
+
+.leaflet-popup-content h1 {
+  font-size: 1.8em;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 0.5em
+}
+
+.leaflet-popup-content strong {
+  font-weight: bold;
+  font-size: 1.2em
+}
+
+.leaflet-popup-content #directions {
+  font-size: 2.5em
+}
