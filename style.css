@@ -10,7 +10,8 @@ html, body {
 .leaflet-popup-content h1 {
   font-size: 1.8em;
   border-bottom: 1px solid #eee;
-  margin-bottom: 0.5em
+  margin-bottom: 0.5em;
+  min-width: 120px
 }
 
 .leaflet-popup-content strong {
