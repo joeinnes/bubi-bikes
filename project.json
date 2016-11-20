@@ -1,6 +1,6 @@
 {
   "title": "Bubi Bikes",
-  "image": "bubi_bikes_ss.png",
+  "image": "bkk_bubi_ss.jpg",
   "summary": "Display the availability of Bubi bikes (public transport, rentable bikes) in Budapest.",
   "technologies_used": [
     "es6",
