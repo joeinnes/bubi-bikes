@@ -1,6 +1,8 @@
+const L = require('leaflet')
+require('whatwg-fetch') // Monkey-patch global environment with fetch
+require('drmonty-leaflet-awesome-markers') // Monkey-patch Leaflet
 const lat = 47.4979
 const lon = 19.0402
-
 const map = L.map('mapcanvas').setView([lat, lon], 15)
 
 L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {

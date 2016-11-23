@@ -24,5 +24,11 @@
   }, {
     "name": "CartoDB",
     "link": "http://cartodb.com/attributions"
+  }, {
+    "name": "FontAwesome",
+    "link": "https://fontawesome.io"
+  }, {
+    "name": "Mathias Rohnstock",
+    "link": "https://github.com/mrohnstock/leaflet-awesome-markers"
   }]
 }
