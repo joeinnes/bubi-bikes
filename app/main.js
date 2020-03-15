@@ -11,7 +11,7 @@ L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
   maxZoom: 19
 }).addTo(map)
 
-let baseUrl = 'http://futar.bkk.hu/bkk-utvonaltervezo-api/ws/otp/api/where/bicycle-rental.json'
+let baseUrl = 'https://futar.bkk.hu/api/query/v1/ws/otp/api/where/bicycle-rental.json'
 let httpsProxy = 'https://cors-anywhere.herokuapp.com/'
 
 window.fetch(httpsProxy + baseUrl)
